@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036540899691",
+    "project_id": "fir-notification-1560d",
+    "storage_bucket": "fir-notification-1560d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036540899691:android:d65e98a4a1f52401af9c2e",
+        "android_client_info": {
+          "package_name": "qa.xshop.vendor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036540899691-g9pnet1r889gtuiub1vti45o6vg7fgia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaDO-Q5wJyRwHfrFouYAA9VUo6hBoaVSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036540899691-g9pnet1r889gtuiub1vti45o6vg7fgia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
